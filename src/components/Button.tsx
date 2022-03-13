@@ -18,11 +18,11 @@ const styles = StyleSheet.create<Styles>({
         backgroundColor: '#f0f0f0',
         textAlign: 'center',
         borderWidth: 1,
-        borderColor: '#888',
+        borderColor: '#373B44',
     },
     operationButton: {
         color: '#fff',
-        backgroundColor: '#fa8231',
+        backgroundColor: '#4286f4',
     },
     doubleButton: {
         width: defaultDimension * 2,
